@@ -1,4 +1,4 @@
-ucture Management System
+City Structure Management System
 Objective: The aim of this assignment is to apply the concepts of Object-Oriented Programming in Python to build a simulated City Infrastructure Management System. This system will incorporate classes, objects, methods, and data structures to manage different aspects of a city, such as buildings, traffic, and events.
 
 Task 1: Vehicle Registration System
